@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ardenlinefirebasetypescript"
+        applicationId "com.lam"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "ardenlineFirebaseTypescript-tvOS.app"
-               BlueprintName = "ardenlineFirebaseTypescript-tvOS"
-               ReferencedContainer = "container:ardenlineFirebaseTypescript.xcodeproj">
+               BuildableName = "lam-tvOS.app"
+               BlueprintName = "lam-tvOS"
+               ReferencedContainer = "container:lam.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "ardenlineFirebaseTypescript-tvOSTests.xctest"
-               BlueprintName = "ardenlineFirebaseTypescript-tvOSTests"
-               ReferencedContainer = "container:ardenlineFirebaseTypescript.xcodeproj">
+               BuildableName = "lam-tvOSTests.xctest"
+               BlueprintName = "lam-tvOSTests"
+               ReferencedContainer = "container:lam.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ardenlineFirebaseTypescript-tvOS.app"
-            BlueprintName = "ardenlineFirebaseTypescript-tvOS"
-            ReferencedContainer = "container:ardenlineFirebaseTypescript.xcodeproj">
+            BuildableName = "lam-tvOS.app"
+            BlueprintName = "lam-tvOS"
+            ReferencedContainer = "container:lam.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "ardenlineFirebaseTypescript-tvOS.app"
-            BlueprintName = "ardenlineFirebaseTypescript-tvOS"
-            ReferencedContainer = "container:ardenlineFirebaseTypescript.xcodeproj">
+            BuildableName = "lam-tvOS.app"
+            BlueprintName = "lam-tvOS"
+            ReferencedContainer = "container:lam.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

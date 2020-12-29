@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ardenlineFirebaseTypescript.app"
-               BlueprintName = "ardenlineFirebaseTypescript"
-               ReferencedContainer = "container:ardenlineFirebaseTypescript.xcodeproj">
+               BuildableName = "lam.app"
+               BlueprintName = "lam"
+               ReferencedContainer = "container:lam.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ardenlineFirebaseTypescriptTests.xctest"
-               BlueprintName = "ardenlineFirebaseTypescriptTests"
-               ReferencedContainer = "container:ardenlineFirebaseTypescript.xcodeproj">
+               BuildableName = "lamTests.xctest"
+               BlueprintName = "lamTests"
+               ReferencedContainer = "container:lam.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ardenlineFirebaseTypescript.app"
-            BlueprintName = "ardenlineFirebaseTypescript"
-            ReferencedContainer = "container:ardenlineFirebaseTypescript.xcodeproj">
+            BuildableName = "lam.app"
+            BlueprintName = "lam"
+            ReferencedContainer = "container:lam.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ardenlineFirebaseTypescript.app"
-            BlueprintName = "ardenlineFirebaseTypescript"
-            ReferencedContainer = "container:ardenlineFirebaseTypescript.xcodeproj">
+            BuildableName = "lam.app"
+            BlueprintName = "lam"
+            ReferencedContainer = "container:lam.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

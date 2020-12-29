@@ -3,12 +3,12 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '10.0'
 
-target 'ardenlineFirebaseTypescript' do
+target 'lam' do
   config = use_native_modules!
 
   use_react_native!(:path => config["reactNativePath"])
 
-  target 'ardenlineFirebaseTypescriptTests' do
+  target 'lamTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -23,10 +23,10 @@ target 'ardenlineFirebaseTypescript' do
   end
 end
 
-target 'ardenlineFirebaseTypescript-tvOS' do
-  # Pods for ardenlineFirebaseTypescript-tvOS
+target 'lam-tvOS' do
+  # Pods for lam-tvOS
 
-  target 'ardenlineFirebaseTypescript-tvOSTests' do
+  target 'lam-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
